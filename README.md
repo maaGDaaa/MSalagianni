@@ -12,7 +12,7 @@
 - 🚀 Looking forward to new challenges and opportunities to grow.
 - ✨ Always learning, one line of code at a time!
 
-###🛠️ Technologies I've worked with
+### 🛠️ Technologies I've worked with
 
 **Programming Languages**
 
@@ -28,10 +28,10 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Protégé](https://img.shields.io/badge/Protégé-7952B3?style=flat-square)
 
-###📚 What I'm up to
+### 📚 What I'm up to
 
 Currently expanding my knowledge through my studies, experimenting with different technologies, and working on becoming a better developer.
 
-###🤝 Let's connect!
+### 🤝 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magda-salagianni/)
